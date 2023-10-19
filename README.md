@@ -2,7 +2,7 @@
 ## CSV com dados do Mec
 
 ### Tópico 1: Número de cursos de graduação
-[Acessar o arquivo](fontes/topico-1/basedados_topico1.csv)
+[Acessar o arquivo](fontes/topico-1/basedados_topico1.zip)
 
 Abrangência: Nacional, estadual e municipal.
 
